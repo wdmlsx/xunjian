@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T02:36:58.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oLEvb1hlRbU3m261U3Ek" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T02:37:19.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nhLtYIJifyqufIwhIJba" version="21.3.3" type="github">
   <diagram name="第 1 页" id="NVEBLmxHPtYreF8IRJ6X">
     <mxGraphModel dx="1360" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -68,13 +68,13 @@
           <mxGeometry x="330" y="1470" width="750" height="510" as="geometry" />
         </mxCell>
         <mxCell id="mkwkqjg2g1FwR-pgGGm_-35" value="存储资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1480" width="130" height="60" as="geometry" />
+          <mxGeometry x="920" y="1480" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkwkqjg2g1FwR-pgGGm_-36" value="网络设备资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="513" y="1480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkwkqjg2g1FwR-pgGGm_-37" value="虚拟机管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1480" width="160" height="60" as="geometry" />
+          <mxGeometry x="350" y="1480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkwkqjg2g1FwR-pgGGm_-38" value="服务器资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="1480" width="155" height="60" as="geometry" />
