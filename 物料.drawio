@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:04:35.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="k9U_iCuiCKQ58ri9kiSy" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:14:08.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_Rd6fDL5W23SYXLegmB_" version="21.6.5" type="github" pages="2">
   <diagram name="第 1 页" id="C9KpGtop9xiGtnV2Kpb9">
     <mxGraphModel dx="1864" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -330,6 +330,35 @@
         </mxCell>
         <mxCell id="Cta2Qcoow2eirm1xqx2B-130" value="货号库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="285" y="3260" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zr-hrpwA5G41reGqoono" name="前端">
+    <mxGraphModel dx="1305" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="970" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="210" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-3" value="物料信息库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-4" value="库存管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-5" value="出货记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-6" value="货单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvByL14rs0O_PVR2aXmy-7" value="厂商库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="625" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
