@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T03:46:18.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="p0HVh_x2Uw7yRotC_Z8F" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:04:35.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="k9U_iCuiCKQ58ri9kiSy" version="21.6.5" type="github">
   <diagram name="第 1 页" id="C9KpGtop9xiGtnV2Kpb9">
-    <mxGraphModel dx="1407" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,8 +266,8 @@
         <mxCell id="Cta2Qcoow2eirm1xqx2B-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cta2Qcoow2eirm1xqx2B-107" target="Cta2Qcoow2eirm1xqx2B-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="725" y="2700" />
-              <mxPoint x="1335" y="2700" />
+              <mxPoint x="725" y="2680" />
+              <mxPoint x="1335" y="2680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -317,13 +317,19 @@
           <mxGeometry x="980" y="3040" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Cta2Qcoow2eirm1xqx2B-118" value="型号&lt;br&gt;厂商&lt;br&gt;等级表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="810" y="2860" width="120" height="120" as="geometry" />
+          <mxGeometry x="850" y="2840" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Cta2Qcoow2eirm1xqx2B-119" value="型号&lt;br&gt;厂商&lt;br&gt;价格表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="2860" width="120" height="120" as="geometry" />
+          <mxGeometry x="1110" y="2840" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Cta2Qcoow2eirm1xqx2B-129" value="物&lt;br&gt;料&lt;br&gt;分&lt;br&gt;类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2760" width="120" height="185" as="geometry" />
+          <mxGeometry x="300" y="2780" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="Cta2Qcoow2eirm1xqx2B-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cta2Qcoow2eirm1xqx2B-130" target="Cta2Qcoow2eirm1xqx2B-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cta2Qcoow2eirm1xqx2B-130" value="货号库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="285" y="3260" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
