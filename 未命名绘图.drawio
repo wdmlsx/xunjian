@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-02T09:51:24.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="O2SSgQ6FLaXHh9B5LUrK" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-02T10:35:13.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="4tU-QSA2T3LxbD9XZvdO" version="22.1.18" type="github">
   <diagram name="第 1 页" id="0rrZKfHWEl6AU2EqBibR">
     <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -195,6 +195,9 @@
         <mxCell id="80Am9beGQUksQQMmXKU0-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5" y="950" width="930" height="360" as="geometry" />
         </mxCell>
+        <mxCell id="80Am9beGQUksQQMmXKU0-95" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="975" width="480" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="80Am9beGQUksQQMmXKU0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="80Am9beGQUksQQMmXKU0-72" target="80Am9beGQUksQQMmXKU0-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -242,6 +245,9 @@
         </mxCell>
         <mxCell id="80Am9beGQUksQQMmXKU0-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="80Am9beGQUksQQMmXKU0-78" target="80Am9beGQUksQQMmXKU0-73">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80Am9beGQUksQQMmXKU0-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="255" y="995" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="80Am9beGQUksQQMmXKU0-78" value="设备状态巡检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1005" width="120" height="30" as="geometry" />
