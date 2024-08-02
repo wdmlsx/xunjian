@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-02T03:52:33.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="6UJyNQKjhprZzZ9Z98Mp" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-02T03:54:41.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="Dtndryjqk238zWxjiAwJ" version="22.1.18" type="github">
   <diagram name="第 1 页" id="0rrZKfHWEl6AU2EqBibR">
     <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,12 @@
         </mxCell>
         <mxCell id="80Am9beGQUksQQMmXKU0-27" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80Am9beGQUksQQMmXKU0-39" value="南向接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80Am9beGQUksQQMmXKU0-40" value="北向接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="835" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
